@@ -13,3 +13,4 @@ Et enfin d'un peu de code
  $ git init
  $ ls -al
  '''
+bonjour
